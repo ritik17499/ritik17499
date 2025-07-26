@@ -92,7 +92,7 @@ I’m deeply passionate about machine learning, deep learning, NLP, DSA, softwar
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about backend development or data extraction, feel free to <a href="mailto:ritikapril17@gmail.com">contact me through email</a>.
+If you have any questions about backend development or data extraction, feel free to <a href="mailto:riverma170499@gmail.com">contact me through email</a>.
 
 You can hire me as a freelancer on <a href="https://www.linkedin.com/in/ritik-verma-749081175/">LinkedIn</a> to work on data extraction or backend projects.
 
