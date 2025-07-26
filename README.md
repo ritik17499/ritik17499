@@ -2,23 +2,18 @@
 
 Hey, 
 
-I'm Ritik Verma, a B.Tech graduate in Information Technology with over a year of experience as an Associate Software Engineer at Informatica. I've worked extensively on database management systems like Redshift, Snowflake, and BigQuery, improving extraction efficiencies and creating new tools from scratch. My technical skills span Java, Python, SQL, AWS, and Docker, and I've led teams in hackathons and academic projects. I’m passionate about developing scalable solutions and optimizing performance, with a keen interest in using my skills to make an impact in healthcare and technology.
+Hi, I'm Ritik Verma, a Master's student in Computer Science at the University at Buffalo, graduating in Fall 2026. I began my journey in tech with a B.Tech in Information Technology from Techno Main Salt Lake in 2022, and then worked as an Associate Software Engineer at Informatica. There, I focused on building and optimizing data extraction tools for platforms like Redshift, Snowflake, Teradata, and BigQuery, and gained hands-on experience in technologies like Java, Python, SQL, AWS, Docker, and Agile development.
 
-TECHNICAL SKILLS:
-• Languages: Java, C, Python, JavaScript.
-• Frameworks : React, Maven, Mockito, JUnit, Agile(Scrum).
-• Technologies : Github, Node.js, AWS, Docker, Docker Compose, Hadoop, REST API. 
-• Operation Systems : Windows , Linux(Ubuntu).
-• Database : Oracle, MySQL, Redshift, Teradata, Snowflake, Cloudera(Hive CDP), Google BigQuery.
+My current research lies at the intersection of biosignals and emotion recognition. I've co-authored a paper where we used an active chain-of-thought (COT) model to predict emotions from multimodal biosignals. I'm now expanding this work to include raw physiological data, audio, and video inputs, with the long-term goal of inferring human behavior.
 
-Driven by curiosity, I am a lifetime learner and a tech-enthusiast. I'm always on the lookout for opportunities to use technology to simplify life and create impactful solutions. My foundational years in the tech world began with a bachelor's degree from TMSL, India, in 2022. Since then, I've had the privilege to work with a major software firm Informatica.
+I’m deeply passionate about machine learning, deep learning, NLP, DSA, software development, and databases. Whether it’s building scalable systems or exploring how technology can interpret human emotion, I’m always looking for ways to create meaningful impact—especially in fields like healthcare and affective computing. I'm a lifelong learner, a team player, and someone who genuinely enjoys solving tough technical problems.
 
 
 
 ## ✉️ Find me on:
 <p align="center">
  <a href="https://www.linkedin.com/in/ritik-verma-749081175/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:ritikapril17@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:riverma170499@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
